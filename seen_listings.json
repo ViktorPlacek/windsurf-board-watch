@@ -2416,5 +2416,44 @@
   "matched_model": null,
   "first_seen": "2026-09-21",
   "last_checked": "2026-09-21"
+ },
+ {
+  "url": "https://sport.bazos.cz/inzerat/224084286/windsurfingovy-komplet-fanatic-north-sails.php",
+  "title": "Windsurfingový komplet Fanatic / North Sails",
+  "site": "bazos.cz",
+  "country": "CZ",
+  "price": "11990 Kc",
+  "location": "Benesov",
+  "status": "Not relevant board",
+  "summary": "Complete set with Fanatic 119L board + North Sails 5.3 sail, carbon mast, boom. Not a target model (too small/different from Viper).",
+  "matched_model": "Fanatic 119L",
+  "first_seen": "2026-09-21",
+  "last_checked": "2026-09-21"
+ },
+ {
+  "url": "https://sport.bazos.cz/inzerat/224083955/damsky-neopren-ion-jewel-amp-vel-40l.php",
+  "title": "Damsky neopren ION Jewel Amp, vel. 40/L",
+  "site": "bazos.cz",
+  "country": "CZ",
+  "price": "3990 Kc",
+  "location": "Praha - zapad",
+  "status": "Not a board",
+  "summary": "Wetsuit only (women's ION Jewel Amp, size 40/L).",
+  "matched_model": null,
+  "first_seen": "2026-09-21",
+  "last_checked": "2026-09-21"
+ },
+ {
+  "url": "https://sport.bazos.cz/inzerat/224083900/neopren-ion-strike-select-semidry-4535mm-vel-54xl.php",
+  "title": "Neopren ION Strike Select Semidry 4.5/3.5mm - Vel. 54/XL",
+  "site": "bazos.cz",
+  "country": "CZ",
+  "price": "4190 Kc",
+  "location": "Praha - zapad",
+  "status": "Not a board",
+  "summary": "Wetsuit only (ION Strike Select Semidry, size 54/XL).",
+  "matched_model": null,
+  "first_seen": "2026-09-21",
+  "last_checked": "2026-09-21"
  }
 ]
