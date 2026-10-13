@@ -1294,7 +1294,7 @@
   "price": "4700 Kc",
   "location": "Cesky Krumlov",
   "status": "Hit! partial",
-  "summary": "Sail matches size (F2 Glide 6.5 m2), 'like new', no vintage indicators; type not stated but Glide is a recreational model. Sail alone is 4700 Kc, within budget. Mast (460cm, RDM/SDM unspecified, +1000 Kc) and boom (+1800 Kc) sold separately as extras; buying all three totals 7500 Kc, slightly over the 7000 Kc/EUR 290 cap. Missing: confirmed RDM mast and boom within budget.",
+  "summary": "Sail matches size (F2 Glide 6.5 m2); images confirm a clean no-camber monofilm design (5-6 battens, no small patchwork windows, no dated color-blocking) consistent with a modern recreational/freeride sail, not vintage. Sail alone is 4700 Kc, within budget. Mast (460cm, RDM/SDM unspecified, +1000 Kc) and boom (+1800 Kc) sold separately as extras; buying all three totals 7500 Kc, slightly over the 7000 Kc/EUR 290 cap. Missing: confirmed RDM mast and boom within budget. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -1385,7 +1385,7 @@
   "price": "Dohodou",
   "location": "Cesky Krumlov",
   "status": "Not relevant rig",
-  "summary": "Beginner set: ALPHA board (~200L) + 6m sail (area/type/brand not given) + laminate (non-carbon) mast, no boom. Appears to be an older-style beginner package rather than a modern freeride sail; size/type cannot be confirmed as matching.",
+  "summary": "Images confirm an old-style long displacement longboard (~3.6m, retro wave graphic, multiple footstrap positions for cruising) and a basic recreational sail with simple graphics - consistent with an older (pre-2010) beginner package, not a modern freeride sail. Area/brand still not given. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -1515,7 +1515,7 @@
   "price": "7500 Kc (boom) + 5000 Kc (sail), sold separately",
   "location": "not specified",
   "status": "Hit! partial",
-  "summary": "Sail matches: Goya Cypher PRO 5.9 m2, model year 2023 (modern), good condition, 5000 Kc alone - within budget. Missing: no mast included at all (ad only says the separately-sold Duotone EPX boom fits both RDM and SDM masts, so mast type for this sail is unconfirmed). Boom (Duotone EPX, adjustable 140-190cm, carbon) is available but adds 7500 Kc, which would push the total to 12500 Kc, over the 7000 Kc/EUR 290 budget if bought together.",
+  "summary": "Sail matches: Goya Cypher PRO 5.9 m2, model year 2023 (modern), good condition, 5000 Kc alone - within budget. Images confirm a clean no-camber monofilm sail with bright modern graphics (yellow/pink, visible Goya branding), consistent with a current-era freeride/freemove design, not vintage. Missing: no mast included at all (ad only says the separately-sold Duotone EPX boom fits both RDM and SDM masts, so mast type for this sail is unconfirmed). Boom (Duotone EPX, adjustable 140-190cm, carbon) is available but adds 7500 Kc, which would push the total to 12500 Kc, over the 7000 Kc/EUR 290 budget if bought together. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -1671,7 +1671,7 @@
   "price": "50 EUR per sail",
   "location": "76530 Baden-Baden",
   "status": "Not relevant rig",
-  "summary": "Sail(s) for sale but no size, type, brand, or model given; cannot confirm it matches spec.",
+  "summary": "Images show a batch of 4 sails for sale, all clearly vintage/retro: F2 'Xtra Lite' (Hoechst Films branding, classic 90s neon color-blocking), Lefevre 'Power Leech' 6.3 (small patchwork windows, dated Lefevre Sails branding - Lefevre is a defunct 90s/2000s brand), an unlabeled neon pink/purple/yellow sail with small cut-out windows, and Lefevre 'Race Slalom' 5.0 (also vintage, and too small besides). None match the modern-freeride spec. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2256,7 +2256,7 @@
   "price": "20 EUR",
   "location": "Leonstein, Oberösterreich",
   "status": "Not relevant rig",
-  "summary": "Sail for sale but no size/type given; cannot confirm it matches spec.",
+  "summary": "Image confirms a vintage F2 sail (pink/yellow/teal, classic 90s neon color-blocking, small patch window rather than large monofilm). Not a modern freeride design. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2308,7 +2308,7 @@
   "price": "50 EUR",
   "location": "Leonstein, Oberösterreich",
   "status": "Not relevant rig",
-  "summary": "Sail for sale but no size/type given; cannot confirm it matches spec.",
+  "summary": "Image of the sail's trim-guide tag confirms: Gaastra 'Charger' 7.5 m2, ideal mast Reflex 3200 QT 460cm IMCS25, fixed boom 219cm. 7.5 m2 is too big for the target range (5.8-6.5 m2). [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2321,7 +2321,7 @@
   "price": "50 EUR",
   "location": "Leonstein, Oberösterreich",
   "status": "Not relevant rig",
-  "summary": "Sail for sale but no size/type given; cannot confirm it matches spec.",
+  "summary": "Image of the sail's tag confirms: NeilPryde '4WD' 5.0 m2 (crossover/sub-wave oriented, recommended mast Carbon 25-460 or Carbon40/Alu 430). 5.0 m2 is too small for the target range, and it's a wave-leaning crossover model, not freeride. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2333,8 +2333,8 @@
   "country": "AT",
   "price": "20 EUR",
   "location": "Leonstein, Oberösterreich",
-  "status": "Not relevant rig",
-  "summary": "Sail for sale but no size/type given; cannot confirm it matches spec.",
+  "status": "Hit! partial",
+  "summary": "Image of the sail's trim-guide tag reveals it is actually a Gaastra 'Pulse Pro' 6.3 m2 (ad text only said 'used sail, windsurfing', no spec given). 6.3 m2 is within the target range; 'Pulse' is Gaastra's freeride/recreational line (not wave/race). Recommended mast: 'Reflex Wave QT' 430cm IMCS21 - RDM/SDM not explicitly labeled. Boom length is fixed at 193cm (+/-1cm), not an adjustable range - minor minus. Design/graphics (clean modern-ish monofilm, no small patchwork windows) don't look clearly vintage, but exact model year/era is unconfirmed. Price is only EUR 20 (~480 Kc) for the sail alone - extremely well within budget. Missing: mast and boom (sail only). [image-checked, found via image - ad text gave no spec at all]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2412,7 +2412,7 @@
   "price": "20 EUR",
   "location": "Innsbruck, Tirol",
   "status": "Not relevant rig",
-  "summary": "Old Alpha 110G beginner set; no sail size/type given, bundled with board, very cheap (likely old/basic gear) - cannot confirm it matches spec.",
+  "summary": "Images show an old-style board (Alpha 110G, retro flame graphics, teal/purple colorway), a basic aluminum fixed-length boom, and a dated fin; the sail itself isn't clearly visible in any of the 6 photos. Everything visible looks like older/basic beginner gear, consistent with the very low EUR 20 asking price; can't confirm the sail matches spec, but nothing suggests a modern freeride sail either. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
@@ -2490,7 +2490,7 @@
   "price": "169 EUR",
   "location": "Salzburg",
   "status": "Not relevant rig",
-  "summary": "Sail for sale but no size/type given; cannot confirm it matches spec.",
+  "summary": "Image confirms a vintage sail (pastel pink/purple/teal color scheme typical of late-80s/90s sails). Not a modern freeride design. [image-checked]",
   "matched_model": null,
   "first_seen": "2026-10-13",
   "last_checked": "2026-10-13"
