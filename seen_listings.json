@@ -15697,14 +15697,14 @@
     "price": "3700 Kc",
     "location": "Domažlice",
     "status": "Not relevant rig",
-    "summary": "RRD Firewing freeride sail, 7.5 m2, sail only.",
+    "summary": "CORRECTED 2026-10-28: previously mislabeled 'freeride' - web search confirms RRD Firewing is actually RRD's cammed race/slalom sail (distinct from RRD's actual freeride line, which is called 'Fire'). Also 7.5 m2 is too big for the 5.8-6.5m2 target anyway. Sail only.",
     "sail_area": "7.5 m²",
     "mast_type": null,
     "boom_type": null,
-    "reason": "7.5m2, too big for the 5.8-6.5m2 target",
+    "reason": "Wrong type (race/slalom, not freeride) and 7.5m2 too big for the 5.8-6.5m2 target",
     "matched_model": "RRD Firewing",
     "first_seen": "2026-10-19",
-    "last_checked": "2026-10-19"
+    "last_checked": "2026-10-28"
   },
   {
     "url": "https://sport.bazos.cz/inzerat/225268792/windsurfingova-plachta-gaastra-phantom-85-m2.php",
